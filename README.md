@@ -17,10 +17,7 @@ It's a very Informative Session that discloses about ChatBots and Their Internal
 
 This Session is useful for both Technical and Non-Technical Persons.
 
-To get the Source Code, Follow me on Github 
-
-Follow me on Instagram and Facebook to get Updates on Projects and Ideas that We are Working On !!
-Instagram -  https://www.instagram.com/freebirdscrew
+To get the Source Code, Follow me on Github
 
 
 The More You Analyze, More You Get Insights from the Data.
